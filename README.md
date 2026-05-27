@@ -231,7 +231,7 @@ It is not designed for clinical diagnosis, medical treatment, or healthcare deci
 
 # Author
 
-Your Name
+Chipi Lozano
 
 ---
 
