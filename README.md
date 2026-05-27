@@ -167,7 +167,7 @@ Input:
 Prediction:
 
 ```text
-[Predicted SOZ]
+"Frontal"
 ```
 
 ### Example 2
@@ -181,7 +181,7 @@ Input:
 Prediction:
 
 ```text
-[Predicted SOZ]
+"Non-specific"
 ```
 
 ---
